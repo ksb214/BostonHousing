@@ -1,0 +1,20 @@
+SOFTWARE and LIBRARIES USED IN THIS PROJECT
+Python 3
+Keras
+Tensorflow
+Seaborn
+Matplotlib
+Folium
+
+DATASET USED IN THIS PROJECT
+Kaggle Competition
+New York City Taxi Fare Prediction
+https://www.kaggle.com/c/new-york-city-taxi-fare-prediction
+https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/data
+
+HOW TO RUN
+
+Jupyter notebook provided here can be directly run in Kaggle with GPU mode enabled.
+Notebook can also be forked from Kaggle website from the link below. 
+
+https://www.kaggle.com/justk1/fork-of-new-york-city-taxi-fare-predictions-ud-v1
