@@ -1,0 +1,2 @@
+This is a project based on reinforcement learning for flying a quadcopter which learns to land properly after several attempts. 
+Each attempt receives reward or punishment. Quadcopter tries to achieve maximum reward through precise landing. 
