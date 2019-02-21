@@ -1,4 +1,4 @@
-<p>This repository is part of the coursework for Udacity Machine Learning Nano Degree program.</p>
+<p>This repository is part of the coursework for Udacity Machine Learning Nanodegree program.</p>
 <p>&nbsp;</p>
 <p><strong>Part1: Machine Learning Foundations</strong></p>
 <ul>
